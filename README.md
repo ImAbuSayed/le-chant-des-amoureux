@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chant-des-amoureux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Le Chant Des Amoureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-amoureux/) |
+| **Get License** | [Music Rights & Licensing for Le Chant Des Amoureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-amoureux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton allure si chic sous les néons de la ville
+> Je perds la raison quand la nuit se défile
+> Dans ce club très privé, the vibe est si bonne
+> T'es la seule, baby, y'a plus l'temps pour personne
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
