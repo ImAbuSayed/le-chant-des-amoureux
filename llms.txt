@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chant-des-amoureux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Le Chant Des Amoureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-amoureux/) |
+| **Get License** | [Request Licensing for Le Chant Des Amoureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-amoureux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4389)
 
 ---
 
